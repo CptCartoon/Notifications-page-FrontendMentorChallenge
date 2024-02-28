@@ -21,8 +21,6 @@ Users should be able to:
 
 - Live Site URL: [Live Server Preview](https://cptcartoon.github.io/Notifications-page-FrontendMentorChallenge)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
